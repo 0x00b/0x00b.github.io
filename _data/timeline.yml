@@ -17,45 +17,28 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: 腾讯
+  title-url: https://www.qq.com/
+  date: 2020 - Present
+  subtitle: "后台开发工程师"
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Go
+    - tag: C++
+    - tag: MySQL
+    - tag: ElasticSearch
+    - tag: 腾讯云组件
   timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+ 
+- title: 腾讯
+  title-url: https://www.qq.com/
+  date: 2018 - 2019
+  subtitle: "后台开发工程师-实习"
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
   timeline-side: right
+ 
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: 华中科技大学
+  title-url: https://www.hust.edu.cn/
+  date: 2017 - 2020
+  subtitle: （MSE）Master of Software Engineering
   timeline-side: left
