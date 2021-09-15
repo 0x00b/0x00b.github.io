@@ -27,7 +27,7 @@
     - tag: MySQL
     - tag: ElasticSearch
     - tag: 腾讯云组件
-  timeline-side: right
+  timeline-side: left
  
 - title: 腾讯
   title-url: https://www.qq.com/
