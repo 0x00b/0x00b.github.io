@@ -4,3 +4,16 @@
 # Example of a framework
 # - name: Framework
 #   weight: 5
+
+
+- name: gRPC
+  weight: 4
+
+- name: Gin
+  weight: 4
+
+- name: OpenAPI
+  weight: 4
+
+- name: Django
+  weight: 2
