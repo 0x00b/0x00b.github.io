@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: "Gn"
+title: "记录生活的小黑板"
 # description: This will be meta HTML tag content. This can be ignored.
 description: Nice To Meet YOU
 # baseurl: The subpath of your site
@@ -21,16 +21,12 @@ email: lijunawk@yeah.net
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: "0x00b"
-codepen_username: ""
-dev_username: ""
-linkedin_username: ""
-twitter_username: ""
 
 # ABOUT ME SECTION
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: false
+show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
@@ -59,7 +55,7 @@ cv_download_link: https://example.com/
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-show_projects_card: true
+show_projects_card: false
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
